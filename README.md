@@ -14,7 +14,7 @@ git clone https://github.com/alfarestaat/TugasPekanan6.git
 ```
 npm install
 ```
-3. Run cypress test
+3. Run cucumber test
 ```
 npm run wdio
 ```
